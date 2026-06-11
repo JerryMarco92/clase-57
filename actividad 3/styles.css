@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}

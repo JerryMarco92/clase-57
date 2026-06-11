@@ -1,0 +1,23 @@
+Actividad 3 - Rick and Morty API
+Endpoint:
+https://rickandmortyapi.com/api/character
+Esta API devuelve un objeto más grande.
+La lista de personajes está dentro de:
+datos.results
+
+
+crear funcion asincrona y obtener datos en json
+sacar por consola lista de personajes?
+
+------------------------------------------------
+
+
+3.A
+Crear tarjetas en HTML con:
+imagen
+nombre
+especie
+estado
+Dato importante:
+personaje.image
+
