@@ -1,0 +1,16 @@
+Actividad 1 — Usuarios
+Consigna
+Usar la API:
+https://jsonplaceholder.typicode.com/users
+Mostrar en consola:
+nombre
+email
+ciudad
+Pista: la ciudad está dentro de:
+usuario.address.city
+
+
+1 primero crear una funcion asincrona que obtenga 
+los datos en variables y en array de objetos(json)
+
+2 hacer los console.log.
