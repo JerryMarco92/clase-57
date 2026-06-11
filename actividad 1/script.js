@@ -2,7 +2,7 @@ async function obtenerUsuarios(){
     let respuesta = await fetch("https://jsonplaceholder.typicode.com/users");
     let datos = await respuesta.json();
 
-    for(dato of datos){
+    for(let dato of datos){
         console.log(`${dato.name} - ${dato.email} - ${dato.address.city}`);
     }
 

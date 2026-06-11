@@ -1,0 +1,10 @@
+Actividad 2 — Mostrar usuarios en HTML
+Consigna
+Crear en HTML:
+<ul id="usuarios"></ul>
+Luego, desde JavaScript:
+pedir los usuarios con fetch
+recorrerlos
+agregar un <li> por usuario
+Cada usuario debe mostrar:
+Nombre - Email
