@@ -13,8 +13,13 @@ async function rickYmorty() {
     for (let personaje of personajes){
         let card = document.createElement("div");
         cards.appendChild(card);
+        card.innerHTML =`
+        <h1>${personaje.name}</h1>
+        </br>
+        <img src="${personaje.image}" alt="imagen de ${personaje.name}">
+        <p>Species: ${personaje.species} </br> ${personaje.status}</p>`
 
-        console.log(personaje.name);
+        console.log(datos);
     }
 }
 

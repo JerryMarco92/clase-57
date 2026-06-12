@@ -12,10 +12,16 @@ section{
 }
 
 div{
-    width: 200px;
-    height: 200px;
-    background-color: lightblue;
+    width: 250px;
+    min-height: 270px;
+    max-height: 300px;
+    background-color: rgb(180, 252, 180);
     border-radius: 10px;
     margin: 5px;
     padding: 5px;
+    text-align: center;
+}
+
+img{
+    max-width: 170px;
 }

@@ -1,0 +1,45 @@
+Actividad 3 - Rick and Morty API
+Endpoint:
+https://rickandmortyapi.com/api/character
+Esta API devuelve un objeto más grande.
+La lista de personajes está dentro de:
+datos.results
+
+
+crear funcion asincrona y obtener datos en json
+sacar por consola lista de personajes?
+
+------------------------------------------------
+
+
+3.A
+Crear tarjetas en HTML con:
+imagen
+nombre
+especie
+estado
+Dato importante:
+personaje.image
+
+--------------------------------------------------
+
+Actividad 4 — Usuarios con tarjeta
+Objetivo
+Practicar:
+fetch
+async / await
+map()
+template strings
+renderizado dinámico
+Consigna
+Usar la API:
+https://jsonplaceholder.typicode.com/users
+Crear tarjetas de usuarios en HTML. Cada tarjeta debe mostrar:
+nombre
+email
+ciudad
+nombre de la empresa
+Pista sutil
+Revisá la estructura de cada usuario en consola antes de intentar mostrar los datos en pantalla.
+Pregunta orientativa
+¿Qué propiedades del objeto están directamente dentro del usuario y cuáles están dentro de otros objetos?
